@@ -1,1 +1,1 @@
-# htmlCameraIcon
+# HTML CAMERA ICON
